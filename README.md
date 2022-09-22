@@ -1,0 +1,5 @@
+# AiGymTrainer![Screenshot (76)](https://user-images.githubusercontent.com/69863748/191736461-0d6b178b-a9d1-4da8-850b-91d3e32e55db.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/69863748/191736482-1c4b2ad2-d908-42fa-a2a5-daaacb4daa51.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/69863748/191736496-e2a23a46-64cf-4d79-874f-23e883e59578.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/69863748/191736542-466a5fb9-1087-490b-9878-145a871a1eab.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/69863748/191736547-743fa8e8-ca96-4f3e-b3ce-112a44be140f.png)
